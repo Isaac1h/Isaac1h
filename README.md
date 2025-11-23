@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hi, I'm Isaac</h1>
+  <p>I’m in my third year of computer science studies and enjoy web and software development.</p>
 
-<!--
-**Isaac1h/Isaac1h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p><strong>💻 My Skills:</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs" alt="Skills" />
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>📫 Connect with Me :</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/isaac-hassani/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:isaac.hassani@limayrac.fr" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+</div>

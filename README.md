@@ -4,7 +4,7 @@
 
   <p><strong>💻 My Skills:</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,bootstrap" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Skills" />
   </p>
 
   <h2>📫 Connect with Me :</h2>

@@ -1,13 +1,16 @@
 <div align="center">
   <h1>👋 Hi, I'm Isaac</h1>
-  <p>I’m in my third year of computer science studies and enjoy web and software development.</p>
-
-  <p><strong>💻 My Skills:</strong></p>
+  <p>I'm in my third year of computer science studies and enjoy web and software development.</p>
+  
+  <h2>💻 My Skills:</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs&perline=4" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Frontend Skills" />
   </p>
-
-  <h2>📫 Connect with Me :</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Backend Skills" />
+  </p>
+  
+  <h2>📫 Connect with Me:</h2>
   <p>
     <a href="https://www.linkedin.com/in/isaac-hassani/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

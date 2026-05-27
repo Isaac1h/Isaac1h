@@ -9,7 +9,7 @@
   <h2>⚡ Main Technologies</h2>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,dotnet" alt="Main Stack" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,dotnet" alt="Main Stack" />
   </p>
 
   <h2>🟣 Power Platform & Microsoft Ecosystem</h2>

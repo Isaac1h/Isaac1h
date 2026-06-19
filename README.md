@@ -34,9 +34,8 @@ En Master **Systèmes d'Information**, j'élargis mes horizons vers Azure Cloud.
 |---|---|
 | ☁️ **AZ-900** — Azure Fundamentals | 🔄 En cours |
 | ⚡ **PL-900** — Power Platform Fundamentals | 🔄 En cours |
-[![Visites du profil](https://komarev.com/ghpvc/?username=Isaac1h&style=for-the-badge&color=005a9e&labelColor=0078D4&label=VISITES+DU+PROFIL)](https://github.com/Isaac1h)
-
 ---
+[![Visites du profil](https://komarev.com/ghpvc/?username=Isaac1h&style=for-the-badge&color=005a9e&labelColor=0078D4&label=VISITES+DU+PROFIL)](https://github.com/Isaac1h)
 
 ## 📫 Me contacter
 

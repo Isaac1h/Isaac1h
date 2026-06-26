@@ -15,7 +15,7 @@ En Master **Systèmes d'Information**, j'élargis mes horizons vers Azure Cloud.
 
 ## 🏅 Certification
 
-[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
+[!Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
 
 ---
 

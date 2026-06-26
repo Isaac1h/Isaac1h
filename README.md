@@ -14,16 +14,6 @@
 
 [![Microsoft Learn](https://img.shields.io/badge/Voir%20ma%20certification%20Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/isaachassani/credentials/35f649076780ab3e)
 
----
-
-## 🚀 À propos de moi
-
-Développeur **Power Platform** en alternance, je conçois des applications qui automatisent les processus métiers et font gagner du temps aux utilisateurs.
-
-Actuellement en **Master Systèmes d'Information**, je développe également mes compétences sur l'écosystème **Microsoft Azure** et les technologies Cloud.
-
----
-
 ## 🛠️ Stack & Outils
 
 ### Microsoft Power Platform

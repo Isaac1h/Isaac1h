@@ -33,10 +33,4 @@
 
 [![Visites du profil](https://komarev.com/ghpvc/?username=Isaac1h&style=for-the-badge&color=005a9e&labelColor=0078D4&label=VISITES+DU+PROFIL)](https://github.com/Isaac1h)
 
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-hassani)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-742774?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://isaachassani.fr)
-
 </div>

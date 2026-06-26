@@ -13,6 +13,12 @@ En Master **Systèmes d'Information**, j'élargis mes horizons vers Azure Cloud.
 
 ---
 
+## 🏅 Certification
+
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/)
+
+---
+
 ## 🛠️ Stack & Outils
 
 ### Microsoft Power Platform
@@ -28,13 +34,6 @@ En Master **Systèmes d'Information**, j'élargis mes horizons vers Azure Cloud.
 
 ---
 
-## 📜 Certifications & Roadmap
-
-| Certification | Statut |
-|---|---|
-| ☁️ **AZ-900** — Azure Fundamentals | 🔄 En cours |
-| ⚡ **PL-900** — Power Platform Fundamentals | 🔄 En cours |
----
 [![Visites du profil](https://komarev.com/ghpvc/?username=Isaac1h&style=for-the-badge&color=005a9e&labelColor=0078D4&label=VISITES+DU+PROFIL)](https://github.com/Isaac1h)
 
 ## 📫 Me contacter

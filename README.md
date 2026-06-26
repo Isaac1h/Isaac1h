@@ -2,7 +2,7 @@
 
 # 👋 Salut, je suis Isaac Hassani
 
-### 🎓 Master Systèmes d'Information &nbsp;·&nbsp; 💼 Développeur Power Platform en alternance (dès sept. 2026)
+### 🎓 Master Systèmes d'Information<br>💼 Développeur Power Platform en alternance (dès sept. 2026)
 
 **Développeur Microsoft orienté Cloud & IA Azure**  ·  Fondateur de Revizo
 

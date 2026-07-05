@@ -4,7 +4,7 @@
 
 ### 🎓 Master SI &nbsp;·&nbsp; 💼 Développeur Microsoft
 
-**Orienté Power Platform, Cloud & IA Azure**  ·  Fondateur de Revizo
+**Orienté Power Platform, Cloud & IA Azure**
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/isaachassani/credentials/35f649076780ab3e">

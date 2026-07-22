@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis Isaac Hassani
+# Isaac Hassani
 
 ### 🎓 Master SI &nbsp;·&nbsp; 💼 Développeur Microsoft
 
